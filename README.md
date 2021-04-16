@@ -1,4 +1,4 @@
-# blood-app
+# Blood App
 
 Scan this QR Code with Expo to check Blood App on your phone.
 
